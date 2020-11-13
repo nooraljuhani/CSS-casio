@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)file:///C:/Users/noor%20aljuhani/Desktop/ICT/PHP/CSS/Casio/safa.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Al SAFA Trading Est-CASIO</title>
+	<link rel="stylesheet" type="text/css" href="./Al SAFA Trading Est-CASIO_files/c.css">
+</head>
+<body>
+
+	<div style="color: #fff;background-color: #1a0066;height: 50px;font-family: Arial;padding-top: 8px">Welcome to Al SAFA online store, The official distributor for CASIO® products in Jordan.</div>
+
+<tr">
+		</tr"><table>
+	<tbody><tr><td> shopping cart</td>
+		<td>My Account</td>
+		<td colspan="1"><img src="./Al SAFA Trading Est-CASIO_files/s1.jpg" style="width: 20;height: 20"></td>
+		<td>CART</td>
+	</tr>
+</tbody></table>
+<hr>
+<img src="./Al SAFA Trading Est-CASIO_files/s2.png" style="align-content: left;">
+<nav>
+	Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 Categories&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+	 Contact Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+	 <button style="">SHOP NOW!</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./Al SAFA Trading Est-CASIO_files/s3.jpg">
+</nav>
+<img src="./Al SAFA Trading Est-CASIO_files/s4.jpg" style="margin-bottom: 5px;margin-top: 3px">
+<input type="text" placeholder="search" style="align-items: center;">
+<hr>
+<p>§1: Featured Products</p>
+<p>Must have products from our top sellers</p>
+
+<table class="3">
+	<tbody><tr>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/s5.png"></td>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/s6.jpg"></td>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/s7.jpg"></td>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/s8.jpg"></td>
+	</tr>
+	<tr>
+		<td>Aujhhd2233</td>
+		<td>uirdhd2233</td>
+		<td>phryhd2233</td>
+		<td>kdfhhd2233</td>
+	</tr>
+	<tr>
+		<td>500JD</td>
+		<td>100JD</td>
+		<td>400JD</td>
+		<td>600JD</td>
+	</tr>
+</tbody></table>
+
+<table class="4">
+	<tbody><tr>
+		<th> TIMEPIECES</th>
+		<th>MUSICAL INSTRUMENTS</th>
+		<th>CALCULATORS</th>
+		<th>LABEL PRINTERS</th>
+	</tr>
+	<tr>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/s9.jpg"></td>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/ss11.jpg"></td>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/ss2.jpg"></td>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/ss33.jpg"></td>
+	</tr>
+
+</tbody></table>
+<hr>
+<p>§1: ON SALE!</p>
+<table class="3">
+	<tbody><tr>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/s5.png"></td>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/s6.jpg"></td>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/s7.jpg"></td>
+		<td><img src="./Al SAFA Trading Est-CASIO_files/s8.jpg"></td>
+	</tr>
+	<tr>
+		<td>Aujhhd2233</td>
+		<td>uirdhd2233</td>
+		<td>phryhd2233</td>
+		<td>kdfhhd2233</td>
+	</tr>
+	<tr>
+		<td>500JD</td>
+		<td>100JD</td>
+		<td>400JD</td>
+		<td>600JD</td>
+	</tr>
+</tbody></table>
+<button style="margin-bottom: 6px">CHECK MORE.</button>
+<div>
+	CASIO BRANDS
+</div>
+<p style="color: ;background-color: ">
+</p><div style="text-align: left;">
+	FIND US <br>
+	King Hussein Street, Building No. 40
+Amman, Jordan 11118<br>
+Phone: (+962) 6 461 3592<br>
+Email: Info@alsafa-jo.com<br>
+<img src="./Al SAFA Trading Est-CASIO_files/ss5.jpg"><br>
+<img src="./Al SAFA Trading Est-CASIO_files/ss6.png">
+<br>
+
+
+</div>
+<div style="text-align: center;">
+	FEATURED<br>
+	GST-B200B-1ADR<br>
+	320.00 JD – 370.00 JD<hr width="30">
+	SHE-4052PG-2AUD<br>
+115.00 JD<hr width="30">
+	PRT-B50-1DR<br>
+200.00 JD – 385.00 JD<hr width="30">
+
+	
+</div>
+<div style="text-align: right;">
+	SITEMAP<br>
+	Privacy policy<hr width="30">
+	shop<hr width="30">
+	home<hr width="30">
+	My account<hr width="30">
+</div>
+<p></p>
+<div style="text-align: center;">© Copyright 2012 - 2020   |   SHOP Theme by TruTed   |   All Rights Reserved   |   Powered by Bulk Mareting Agencys</div>
+
+</body></html>
